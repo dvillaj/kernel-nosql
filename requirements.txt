@@ -1,0 +1,42 @@
+# Pandas
+pandas
+matplotlib
+Faker
+
+# Postgres
+psycopg2-binary==2.8.6
+sqlalchemy==1.3.2
+ipython-sql
+prettytable==0.7.2 # requeriment for ipython-sql
+
+# riak
+# riak==2.7.0
+git+https://github.com/basho/riak-python-client.git@8abefafaea0486556b7e133c4f6ec0107b37245e
+
+# MongoDB
+pymongo==3.11.2
+
+# Neo4j
+py2neo==2021.2.0
+ipython-cypher
+networkx==2.5
+decorator==4.4.2
+neo4jupyter
+
+# cassandra
+cassandra-driver==3.24.0
+git+https://github.com/dvillaj/ipython-cql.git 
+
+# REST Services
+bottle
+requests
+
+# Word Cloud
+wordcloud
+
+# Print Formating
+pprintpp
+
+# Read Excel from Pandas
+xlrd
+openpyxl
